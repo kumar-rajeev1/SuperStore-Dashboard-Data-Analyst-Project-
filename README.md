@@ -23,6 +23,9 @@ his project presents an interactive dashboard created from Superstore sales data
    2. Superstore Dataset (sample data)
    3. Data Cleaning & Preparation in Excel
 
+# Project Link:
+   https://app.powerbi.com/groups/me/reports/5ab11b11-e0d1-4e4f-9720-e53f277e38e8/5a652c985bdb44536212?portalSessionId=94a9470a-f4d7-421e-93c1-4077f726dea5&fromEntryPoint=share
+
 # Clone the repository:
      https://github.com/kumar-rajeev1/SuperStore-Dashboard-Data-Analyst-Project-.git
 
