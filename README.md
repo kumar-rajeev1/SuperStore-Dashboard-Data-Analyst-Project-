@@ -31,7 +31,7 @@ his project presents an interactive dashboard created from Superstore sales data
 
 
 
-   (https://github.com/kumar-rajeev1/SuperStore-Dashboard-Data-Analyst-Project-/blob/0b9bff881edc00b9e1d6c10130fdc41ba8ce13ae/image.png)
+  [Dashboard_image].(https://github.com/kumar-rajeev1/SuperStore-Dashboard-Data-Analyst-Project-/blob/0b9bff881edc00b9e1d6c10130fdc41ba8ce13ae/image.png)
 
 
 
